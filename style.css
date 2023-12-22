@@ -1,0 +1,40 @@
+body{
+    background-color: #E0E0E0;
+}
+
+.ჩარჩო{
+    width: 378px;
+    height: 489px;
+    border-radius: 10px;
+    border: 1px solid #F4B4B47A;
+    background-color: #F5F5F5;
+    margin-left: 451px;
+    margin-top: 131px;
+}
+img{
+    margin-top: 20px;
+    margin-left: 10px;
+    
+}
+input{
+    width: 315px;
+    height: 45px;
+    border-radius: 10px;
+    margin-left: 20px;
+    border: 1px solid #F4B4B47A;
+    margin-right: 10px;
+}
+label{
+    margin-left: 20px;
+    margin-top: 20px;
+}
+button{
+    width: 315px;
+    height: 45px;
+    border-radius: 10px;
+    background-color: #6756CB;
+    color: #FFFFFF;
+    border: none;
+    margin-bottom: 15px;
+    margin-left: 20px;
+}
